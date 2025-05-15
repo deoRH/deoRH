@@ -12,6 +12,7 @@ You will find some collection tools with dummy project and documentations based 
 ### ✅ Automation Testing Project Dummy
 - [Test_Katalon_01](https://github.com/deoRH/Test_Katalon_01)
 - [Test_SeleniumWeb_01](https://github.com/deoRH/Test_SeleniumWeb_01)
+- [Test_SeleniumWeb_02](https://github.com/deoRH/Test_SeleniumWeb_02)
 
 ### 🌐 Web Development Sample
 - [Create_HTMLCSS_WebdeoRH](https://github.com/deoRH/Create_HTMLCSS_WebdeoRH)
